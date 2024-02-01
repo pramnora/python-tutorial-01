@@ -16,5 +16,4 @@ If you can teach it, effectively, to others...; then, that proves you know your 
 
 -----
 
--(**NOTE**: At the moment this tutorial is only just 'one' page long...; even, though there is a [Next >>] button...; clicking on it won't go anywhere...?!   
-I will try to come back here...; and, update this tutorial, later on.)-
+-(**NOTE**: At the moment this tutorial is only just 'one' page long...; even, though there is a [Next >>] button...; clicking on it won't go anywhere...?! I will try to come back here...; and, update this tutorial, later on.)-
