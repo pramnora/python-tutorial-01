@@ -10,7 +10,7 @@ USER INSTRUCTIONS
 
 To view/interact with these web pages click...
 
-- https://app.netlify.com/sites/prg-python-tutorial/overview 
+- https://prg-python-tutorial.netlify.app/
 
 -----
 
