@@ -2,7 +2,15 @@
 python-tutorial-01
 
 Page created: *01 Feb 2024 16:53 PM GMT*  
-Last updated: *01 Feb 2024 16:53 PM GMT*  
+Last updated: *01 Apr 2025 15:14 PM GMT* 
+
+-----
+
+USER INSTRUCTIONS
+
+To view/interact with these web pages click...
+
+- https://app.netlify.com/sites/prg-python-tutorial/overview 
 
 -----
 
